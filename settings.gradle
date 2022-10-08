@@ -14,3 +14,15 @@ dependencyResolutionManagement {
 }
 rootProject.name = "JojoWanAndroid"
 include ':app'
+include ':core-ui'
+include ':core-common'
+include ':core-base'
+include ':feature-login'
+include ':core-logger'
+include ':core-network'
+include ':core-datastore'
+include ':core-database'
+include ':core-model'
+include ':core-data'
+include ':sync'
+include ':feature-register'
